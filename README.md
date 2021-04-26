@@ -22,6 +22,7 @@ In the Bitcoin Python notebook, there are tutorials for the following:
   - Use the mnemonic phrase validation tool to validate the mnemonic phrase
 
 In the Blockchain notebook: 
+
 **Blockchain API**
   - Pull network statistics via the Blockchain API library
   
